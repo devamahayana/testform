@@ -5,11 +5,11 @@ const Subscribe = () => {
     <div>
           <h1>Contact Us</h1>
           <form 
-            name="subscripe" method="POST" 
+            name="newsletter" method="POST" 
             data-netlify="true"
             data-netlify-honeypot="bot-field">
               
-            <input type="hidden" name="form-name" value="subscripe" />
+            <input type="hidden" name="form-name" value="newsletter" />
         
             <div>
               <label>
